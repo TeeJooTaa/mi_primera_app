@@ -1,17 +1,33 @@
-# mi_primera_app
+# Cursos ADSO
 
-A new Flutter project.
+## Participante
+- Tatiana Jimenez
 
-## Getting Started
+## Descripción del proyecto
 
-This project is a starting point for a Flutter application.
+Cursos ADSO es una aplicación móvil desarrollada con Flutter como parte del proceso de formación. La aplicación permite iniciar sesión, visualizar una lista de cursos y consultar los detalles de cada curso.
 
-A few resources to get you started if this is your first Flutter project:
+## Vistas de la aplicación
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### 1. Inicio de sesión
+![Inicio de sesión](evidencias/login.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 2. Lista de cursos
+![Lista de cursos](evidencias/lista_cursos.png)
+
+### 3. Detalle del curso
+![Detalle del curso](evidencias/detalle_curso.png)
+
+## Evidencias del entorno de desarrollo
+
+### Flutter Doctor
+![Flutter Doctor](evidencias/flutter_doctor.png)
+
+### Flutter Devices
+![Flutter Devices](evidencias/flutter_devices.png)
+
+## Tecnologías utilizadas
+- Flutter
+- Dart
+- Visual Studio Code
+- Git y GitHub
